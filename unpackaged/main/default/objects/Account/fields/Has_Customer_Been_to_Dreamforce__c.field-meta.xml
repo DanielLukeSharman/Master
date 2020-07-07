@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+        <fullName>Has_Customer_Been_to_Dreamforce__c</fullName>
+        <defaultValue>false</defaultValue>
+        <description>Check field if customer has visited our booth at Dreamforce 19</description>
+        <externalId>false</externalId>
+        <label>Has_Customer_Been_to_Dreamforce</label>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Checkbox</type>
+    </CustomField>
