@@ -11,6 +11,12 @@
         <valueSetDefinition>
             <sorted>false</sorted>
             <value>
+                <fullName>Gold</fullName>
+                <color>#F3D904</color>
+                <default>false</default>
+                <label>Gold</label>
+            </value>
+            <value>
                 <fullName>Silver</fullName>
                 <color>#BBBBBB</color>
                 <default>false</default>
@@ -28,18 +34,18 @@
                 <default>false</default>
                 <label>Bronze</label>
             </value>
-            <value>
-                <fullName>Gold</fullName>
-                <color>#FFFF66</color>
-                <default>false</default>
-                <label>Gold</label>
-            </value>
         </valueSetDefinition>
         <valueSettings>
             <controllingFieldValue>Agriculture</controllingFieldValue>
             <controllingFieldValue>Apparel</controllingFieldValue>
             <controllingFieldValue>Chemicals</controllingFieldValue>
             <valueName>Bronze</valueName>
+        </valueSettings>
+        <valueSettings>
+            <controllingFieldValue>Apparel</controllingFieldValue>
+            <controllingFieldValue>Banking</controllingFieldValue>
+            <controllingFieldValue>Chemicals</controllingFieldValue>
+            <valueName>Gold</valueName>
         </valueSettings>
         <valueSettings>
             <controllingFieldValue>Apparel</controllingFieldValue>
