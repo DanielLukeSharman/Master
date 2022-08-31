@@ -90,7 +90,6 @@
         <default>false</default>
         <visible>true</visible>
     </applicationVisibilities>
-    <custom>false</custom>
     <fieldPermissions>
         <editable>true</editable>
         <field>Account.AccountNumber</field>
@@ -2256,7 +2255,6 @@
         <tab>standard-WorkTypeGroup</tab>
         <visibility>DefaultOn</visibility>
     </tabVisibilities>
-    <userLicense>Salesforce</userLicense>
     <userPermissions>
         <enabled>true</enabled>
         <name>ActivitiesAccess</name>
